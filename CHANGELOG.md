@@ -16,6 +16,7 @@ Release date: TBD
 - Invalidate cache before load, to make server upgrades easy
 - Removed misleading shortcuts from tray menu, as they didn't work
 - Ctrl/Command+F puts cursor in search box to search in current channel.
+- Added simple validation for Name and URL in the settings page.
 
 #### Windows
 - Update Mattermost icon for desktop notifications in Windows 10.
